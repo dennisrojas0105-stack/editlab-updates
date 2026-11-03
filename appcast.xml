@@ -1,2 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>EditLab updates</title><description>Signed EditLab updates</description><language>en</language></channel></rss>
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>EditLab updates</title>
+    <description>Signed EditLab updates</description>
+    <language>en</language>
+    <item>
+      <title>EditLab 0.2.5</title>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
+      <pubDate>Tue, 03 Nov 2026 04:29:48 +0000</pubDate>
+      <enclosure url="https://github.com/dennisrojas0105-stack/editlab-updates/releases/download/v0.2.5/EditLab-0.2.5.zip" sparkle:edSignature="Q05KTAnccQvsQrzBU+klcpNT6Z+vhq5rytsxeXh9OrJOCZm0gcT+N4UO6Q+r618WY0deMJ58KlJW+x+SoYTkAQ==" length="1135429" type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
